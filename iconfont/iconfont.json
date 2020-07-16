@@ -1,0 +1,65 @@
+{
+  "id": "1504531",
+  "name": "jujia",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "996755",
+      "name": "箭头",
+      "font_class": "ai41",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "1075327",
+      "name": "good",
+      "font_class": "good",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "10232757",
+      "name": "简介",
+      "font_class": "jianjie",
+      "unicode": "e78b",
+      "unicode_decimal": 59275
+    },
+    {
+      "icon_id": "12934663",
+      "name": "phone",
+      "font_class": "tubiaozhizuomoban-",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "1761439",
+      "name": "科室",
+      "font_class": "keshi",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "6275359",
+      "name": "定位",
+      "font_class": "icon-test1",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "6602265",
+      "name": "疾病管理",
+      "font_class": "jibingguanli",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "10150405",
+      "name": "医院",
+      "font_class": "yiyuan",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    }
+  ]
+}
